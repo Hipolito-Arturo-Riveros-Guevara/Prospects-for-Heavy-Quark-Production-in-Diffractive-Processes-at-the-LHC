@@ -1,0 +1,23 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+! General configs
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!Main:numberOfEvents = 100000   ! Número de eventos a serem gerados
+Beams:idA = 2212              ! ID do feixe A (proton)
+Beams:idB = 2212              ! ID do feixe B (proton)
+Beams:eCM = 13000
+
+! Configuração de pTHat para eventos difrativos
+PhaseSpace:pTHatMin = 2.0        ! Mínimo pT para os processos hard (em GeV)
+PhaseSpace:pTHatMax = -1.0        ! Máximo pT para os processos hard (em GeV), -1 desativa o limite superior
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+PartonLevel:all = on
+PartonLevel:ISR = on
+PartonLevel:FSR = on
+PartonLevel:MPI = on
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!Diffractive side CHOICE and ACTIVATION
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Diffraction:hardDiffSide = 1
+Diffraction:doHard       = on
+
