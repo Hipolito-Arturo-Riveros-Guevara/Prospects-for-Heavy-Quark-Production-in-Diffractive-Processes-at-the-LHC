@@ -4,3 +4,7 @@ We present an analysis of the prospects for the Large Hadron Collider (LHC) for 
 We consider total cross section for a center of mass energy 13 TeV for $$c\bar{c}$$ and $$b\bar{b}$$. We run the simulation in Pythia 8 to understand the impact of different settings. We focus on checking the effects of multiple parton interactions in simulation as well as choosing different Pomset settings.
 
 ![image](https://github.com/user-attachments/assets/0e02e4f2-1a66-4623-b874-d0acf37bdd63){: style="width: 50%; display: block; margin: 0 auto;"}
+
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/0e02e4f2-1a66-4623-b874-d0acf37bdd63" alt="Descripción" style="width: 50%; height: auto;" />
+</div>
