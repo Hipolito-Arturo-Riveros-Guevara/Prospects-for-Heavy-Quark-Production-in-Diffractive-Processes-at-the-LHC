@@ -19,3 +19,5 @@ We also present rapidity distributions for bb and cc pair. We do a comparison fo
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/d09532be-6f19-4101-b7d5-2d663b653c2f" alt="Descripción" style="width: 80%; height: auto;" />
 </div>
+
+The conclusions to draw from those distributions match those from the cross sections calculated above.
