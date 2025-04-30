@@ -6,7 +6,7 @@ We consider total cross section for a center of mass energy 13 TeV for $$c\bar{c
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/0e02e4f2-1a66-4623-b874-d0acf37bdd63" alt="Descripción" style="width: 50%; height: auto;" />
 </div>
-To further study the system's evolution, we investigate particle distributions in various kinematic variables to understand the dynamics of the process. We plot longitudinal momentum ($p_z$) vs transverse momentum ( $$p_t$$ ) and pseudorapidity ( $$\eta$$ ) vs $$p_t$$ distributions.
+To further study the system's evolution, we investigate particle distributions in various kinematic variables to understand the dynamics of the process. We plot longitudinal momentum ($p_z$) vs transverse momentum ( $$p_t$$ ) and pseudorapidity ( $$\eta$$ ) vs $$ p_t $$ distributions.
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/b5de8b0a-ef2e-49a3-abb2-b63c6adeb305" alt="Descripción" style="width: 50%; height: auto;" />
 </div>
