@@ -11,5 +11,6 @@ To further study the system's evolution, we investigate particle distributions i
     <img src="https://github.com/user-attachments/assets/b5de8b0a-ef2e-49a3-abb2-b63c6adeb305" alt="Descripción" style="width: 50%; height: auto;" />
 </div>
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/b5de8b0a-ef2e-49a3-abb2-b63c6adeb305" alt="Descripción" style="width: 50%; height: auto;" />
+    <img src="https://github.com/user-attachments/assets/5ac457bd-6c07-449d-a571-caaa78d380a4" alt="Descripción" style="width: 50%; height: auto;" />
 </div>
+
