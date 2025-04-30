@@ -13,4 +13,9 @@ To further study the system's evolution, we investigate particle distributions i
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/5ac457bd-6c07-449d-a571-caaa78d380a4" alt="Descripción" style="width: 50%; height: auto;" />
 </div>
+We mark different ranges of $p_z$ corresponding to different regions with colors. On the number of tracks distributions we can see the statistics being different on each side.
+We also present rapidity distributions for bb and cc pair. We do a comparison for MPI checked and unchecked and pomset5 and pomset12. We obtain four distributions total for each quark pair
 
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/d09532be-6f19-4101-b7d5-2d663b653c2f" alt="Descripción" style="width: 50%; height: auto;" />
+</div>
