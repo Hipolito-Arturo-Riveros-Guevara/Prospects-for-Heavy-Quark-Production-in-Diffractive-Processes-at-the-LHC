@@ -4,7 +4,7 @@ We present an analysis of the prospects for the Large Hadron Collider (LHC) for 
 We consider total cross section for a center of mass energy 13 TeV for $$c\bar{c}$$ and $$b\bar{b}$$. We run the simulation in Pythia 8 to understand the impact of different settings. We focus on checking the effects of multiple parton interactions in simulation as well as choosing different Pomset settings.
 
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/0e02e4f2-1a66-4623-b874-d0acf37bdd63" alt="Descripción" style="width: 30%; height: auto;" />
+    <img src="https://github.com/user-attachments/assets/0e02e4f2-1a66-4623-b874-d0acf37bdd63" alt="Descripción" style="width: 40%; height: auto;" />
 </div>
 To further study the system's evolution, we investigate particle distributions in various kinematic variables to understand the dynamics of the process. We plot longitudinal momentum vs transverse momentum and pseudorapidity  vs distributions.
 <div style="text-align: center;">
@@ -17,5 +17,5 @@ We mark different ranges of $p_z$ corresponding to different regions with colors
 We also present rapidity distributions for bb and cc pair. We do a comparison for MPI checked and unchecked and pomset5 and pomset12. We obtain four distributions total for each quark pair
 
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/d09532be-6f19-4101-b7d5-2d663b653c2f" alt="Descripción" style="width: 90%; height: auto;" />
+    <img src="https://github.com/user-attachments/assets/d09532be-6f19-4101-b7d5-2d663b653c2f" alt="Descripción" style="width: 80%; height: auto;" />
 </div>
